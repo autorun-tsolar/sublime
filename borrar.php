@@ -1,4 +1,5 @@
 <?php
 
-// scando los headers raros
+//  Editado por Victor!
+
 ?>
