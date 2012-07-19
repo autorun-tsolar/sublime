@@ -1,5 +1,6 @@
 <?php
 
+<<<<<<< HEAD
 //  Editado por Victor!
 
 // Otra edicion por victor
@@ -8,3 +9,7 @@
 
 
 ?>
+=======
+// editado por nicolas
+?>
+>>>>>>> tratando de generar conflicto
