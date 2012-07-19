@@ -1,5 +1,5 @@
 <?php
-//  Editado por Victor!
+//  nico rulez!!!!
 
 // Otra edicion por victor
 
