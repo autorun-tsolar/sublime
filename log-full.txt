@@ -1,0 +1,258 @@
+commit 56bedbf4e077b6c5fd5724a980ebe2dceec83d91
+Author: root <root@riescorp.com>
+Date:   Sun Jul 22 08:23:08 2012 -0400
+
+    cambio de formto en el log a txt
+
+commit 07e25f96633a42ac6df074ec6a6ff0c380a94fbf
+Author: root <root@riescorp.com>
+Date:   Sun Jul 22 08:21:37 2012 -0400
+
+    agregado log (git log --pretty=%s --first-parent > log.md)
+
+commit dffe24f023aa42599b3499bb3a9fa3d779602dca
+Author: root <root@riescorp.com>
+Date:   Sun Jul 22 08:17:46 2012 -0400
+
+    ahora compila, ante habia error
+
+commit 56f5b49b0d4637c0f3d64f73e99cb4669372c2d6
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Sat Jul 21 02:13:46 2012 -0400
+
+    cambios desde gui
+
+commit 820bc83824776b6215819f4ec85252ce4f54cc6e
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Sat Jul 21 02:12:37 2012 -0400
+
+    probando desde linea de comando 2
+
+commit deb543b047af023bd6ed07e39d65c61f90945b2b
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Sat Jul 21 02:08:01 2012 -0400
+
+    Arreglo del readme
+
+commit 9d71ec830550bfcad2f8fb0f25d12c5108f6d7ce
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Sat Jul 21 02:05:00 2012 -0400
+
+    Borrado de archivos varios
+    
+    ademas de eso, se logra establecer una primera versión mas estable de
+    este demo
+
+commit 3ae3d9eb25a3a84c69c2f1ae4104d1cc72ddfefb
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Fri Jul 20 18:46:34 2012 -0400
+
+    aa
+
+commit a25b59090674c8e131a52c581ba66d200197ba46
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Fri Jul 20 17:32:58 2012 -0400
+
+    intentando generar un conflicto parte 10
+    
+    de nuevo
+
+commit 2982a851e793dc63d5d2aedf3568eee6389fafba
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Fri Jul 20 17:31:21 2012 -0400
+
+    Probando git via linea de comandos
+
+commit 465fe3ed64a7f252c921c2baf56b22cc29997404
+Merge: 016ad97 698e0f1
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:19:28 2012 -0400
+
+    Merge branch 'master' of github.com:nriesco/sublime
+    
+    Conflicts:
+    	miarchivo
+
+commit 698e0f14a17844a3e7c89a71b7d29f4248c29d9c
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Thu Jul 19 18:17:24 2012 -0400
+
+    conflicto !!!!
+    
+    viva el conflicto
+
+commit 016ad9709280092cfedc9e64492de56b2b104f4c
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:17:12 2012 -0400
+
+    Creacion de conflicto
+
+commit 26eb072165a6812681cabd8ab211660d7908cd97
+Merge: f7cab5a a3e8fc8
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:13:23 2012 -0400
+
+    conflicto resuelto
+
+commit f7cab5a89196dd14288ab52409da6e6674827b5e
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:09:25 2012 -0400
+
+    Testing merge again
+
+commit a3e8fc83082207a00ea699bd4329d2ccb1fab64c
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Thu Jul 19 18:09:11 2012 -0400
+
+    ahora si voy a producir un conflicto
+    
+    a
+
+commit 9b15117fb7c6a79f3e8b24682bfaf9aa3fc1bc1a
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:05:47 2012 -0400
+
+    tesing resolucion
+
+commit f0f5a5cd3191a55a2ac3a48913c5d3d4c0649afb
+Merge: fa0385c f6ca696
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:03:12 2012 -0400
+
+    Merge branch 'master' of github.com:nriesco/sublime
+
+commit fa0385c4f6f8d978df12e191591f2e93d5cda04a
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 18:02:34 2012 -0400
+
+    Testing
+
+commit f6ca6962e8752cf4d5542ffa246581cf8a3d2cf7
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Thu Jul 19 16:11:18 2012 -0400
+
+    tratando de generar conflicto
+    
+    prueba
+
+commit f7f96101d6a0e70257cd1da910d8a8266aaf246b
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 16:55:37 2012 -0400
+
+    Testing de conflicto 2
+
+commit 72a3176221430b39037e59dc014a1232db3690f0
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 16:27:47 2012 -0400
+
+    testing ui
+
+commit 229088b3bb03d27ab12f93acbabe99b57e1a95d2
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 16:11:03 2012 -0400
+
+    Ejemplo de conflicto
+
+commit 71fadc26ec6eb3ee646715cd84e9828161b51811
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Thu Jul 19 16:09:23 2012 -0400
+
+    Scar comandos raros
+    
+    a
+
+commit 201e449f059b930eb8a97a138763eb2fff04d691
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 15:28:52 2012 -0400
+
+    Testing gui oficial
+
+commit 357f8c1a5835a3be72f229f0dd03922098efc1ff
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 15:27:17 2012 -0400
+
+    Prueba nuevo editor
+
+commit 9b89d0297148581bb806b830bf60e39cd73872ca
+Author: Victor Valdivia <newvvv@gmail.com>
+Date:   Thu Jul 19 15:12:40 2012 -0400
+
+    mi archivo
+
+commit 5047cc4c3289588c69c478a39ba72978a72b0792
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Thu Jul 19 00:21:09 2012 -0400
+
+    a
+    
+    a
+
+commit 950304372d4ba5eae9f08d723ccfe554eedb9653
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Wed Jul 18 23:05:21 2012 -0400
+
+    cambios en bbb
+    
+    bbb
+
+commit 10c7907f5797ad5cb5a3efc4549e7bd0f415b599
+Merge: a87343c 515266d
+Author: nriesco <riesco@gmail.com>
+Date:   Wed Jul 18 19:52:32 2012 -0700
+
+    Merge pull request #1 from nriesco/aaa
+    
+    pull request algo
+
+commit 515266d15d9bfc3fc9407cc60497ee7498aa21eb
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Wed Jul 18 22:48:54 2012 -0400
+
+    commit 1
+    
+    uno
+
+commit a87343c302429b21696b8d02b4f5c5785ed4db37
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Wed Jul 18 22:46:58 2012 -0400
+
+    Cambios en b
+    
+    otros
+
+commit df9866491600e8c795819b533e0e8c35c8caa39b
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Wed Jul 18 19:53:00 2012 -0400
+
+    Moviendo archivos
+    
+    y ademas modificando un poco el contenido
+
+commit 3ecacadcd03c6167857d92f9658a20853ebb64ec
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Wed Jul 18 19:46:08 2012 -0400
+
+    Aggregat archivos y modificar algunos
+    
+    Se agregaron dods archivos para ver como aparecían y se modificó el
+    contenido de otro mas.php
+
+commit 3f524271dd4eff3076c2d19feaf45be0055200bd
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Wed Jul 18 18:57:38 2012 -0400
+
+    Otra prueba
+    
+    probando la herramienta completa
+
+commit 748889e7049fe8b993de3107587d851bd0df6220
+Author: Nicolas Riesco <riesco@gmail.com>
+Date:   Tue Jul 17 22:51:00 2012 -0400
+
+    probando
+
+commit 5fe159c8c33a4b561517e945749fab070d9043ad
+Author: nriesco <riesco@gmail.com>
+Date:   Tue Jul 17 19:48:46 2012 -0700
+
+    Initial commit
