@@ -1,4 +1,5 @@
 <?php
 // segundo archivo de prueba
-y cambiando desde sublime para probar
+echo "Esto si va a funcionar!";
+//y cambiando desde sublime para probar
 ?>
