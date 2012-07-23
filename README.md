@@ -26,3 +26,6 @@ para escribir `asi se pones acentos hacia atras`
 para que aparezca como codigo, ocupar tab
 	asi (esto no funciona bien)
 
+
+para cerrar un issue:
+ al hacer submit: `closes #9`
