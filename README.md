@@ -29,3 +29,4 @@ para que aparezca como codigo, ocupar tab
 
 para cerrar un issue:
  al hacer submit: `closes #9`
+ 
