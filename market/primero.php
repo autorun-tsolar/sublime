@@ -1,5 +1,5 @@
 <?php
 // primer archivo de prueba
-
-cambio desde linea de comandos
+echo "ahora compila nuevamente";
+//cambio desde linea de comandos
 ?>
