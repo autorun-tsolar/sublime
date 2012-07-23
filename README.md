@@ -13,6 +13,7 @@ ver como se corren los tests
 
 # git
 - linea de comandos
+
 	GUI en caso de ser necesario
 
 # sublime text2
